@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm piotreknow02 
 <h3 align="center">A passionate developer from Poland</h3>
 
-
 ---
 
 # 💫About Me
 
 My personal website [piotreknow.ml](https://piotreknow.ml/)
+
+![](https://img.shields.io/badge/linux%20distro-fedora-blue.svg?style=for-the-badge&logo=fedora)
 
 # 💻Tech Stack
 
