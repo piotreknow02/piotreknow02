@@ -3,7 +3,7 @@
 
 ---
 
-# 🌐 Socials
+# 🌐 About me
 
 [![Personal Website](https://img.shields.io/badge/personal%20website-piotreknow.ml-website.svg?style=for-the-badge&logo=web&color=red)](https://piotreknow.ml)
   
