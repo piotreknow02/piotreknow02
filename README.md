@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm piotreknow02 
+<h1 align="center">Hi 👋, I'm piotreknow02</h1>
+<img src="./banner.jpeg">
 <h3 align="center">A passionate developer from Poland</h3>
 
 ---
@@ -6,7 +7,7 @@
 # 🌐 About me
 
 [![Personal Website](https://img.shields.io/badge/personal%20website-piotreknow.ml-website.svg?style=for-the-badge&logo=web&color=red)](https://piotreknow.ml)
-  
+
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/16216153) 
 
 ![](https://img.shields.io/badge/linux%20distro-fedora-blue.svg?style=for-the-badge&logo=fedora)
