@@ -32,7 +32,10 @@
 
 ### 😂 Random Dev Meme
 
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<div style="dispaly:flex;flex-direction:row"/>
+  <img src="https://random-memer.herokuapp.com/" width="512px"/>
+  <img src="https://d33wubrfki0l68.cloudfront.net/ddf49425628d8aec7523db143916b34ae1641e11/b97e8/images/gopher-side_color.svg" width="100px"/>
+</div>
 
 ---
 
