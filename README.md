@@ -8,14 +8,11 @@
 
 [![Personal Website](https://img.shields.io/badge/personal%20website-piotreknow.ml-website.svg?style=for-the-badge&logo=web&color=red)](https://piotreknow.ml)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piotr-nowakowski-9a200126b/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piotreknow/)
 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/16216153) 
 
 [![Fedora](https://img.shields.io/badge/linux%20distro-fedora-blue.svg?style=for-the-badge&logo=fedora)](https://getfedora.org)
-
-![Currently Working as](https://img.shields.io/badge/currently%20working%20as-go%20backend%20developer-website.svg?style=for-the-badge&logo=web&color=yellow)
-<img align="right" src="https://d33wubrfki0l68.cloudfront.net/ddf49425628d8aec7523db143916b34ae1641e11/b97e8/images/gopher-side_color.svg" width="100px"/>
 
 
 # 💻 Tech Stack
